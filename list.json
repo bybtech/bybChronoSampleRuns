@@ -1,6 +1,10 @@
 {
   "runs": [
     "salita1.chr",
-    "salita2.chr"
+    "salita2.chr",
+    "Run01.chr",
+    "Run02.chr",
+    "Run03.chr",
+    "Run04.chr",
   ]
 }
