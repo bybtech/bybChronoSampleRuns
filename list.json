@@ -1,15 +1,8 @@
 {
   "runs": [
-    "2023-07-21_Run01.chr",
-    "2023-07-21_Run02.chr",
-    "bike1.chr",
-    "bike2.chr",
-    "bike3.chr",
-    "bike4.chr",
-    "Run20567.chr",
-    "closedLap_NoTrigger_NoSpeed.chr",
-    "closedLap_NoTrigger_YesSpeed.chr",
-    "closedLap_YesTrigger_NoSpeed.chr",
+     "closedLap_NoTrigger_NoSpeed.chr",
+     "closedLap_NoTrigger_YesSpeed.chr",
+     "closedLap_YesTrigger_NoSpeed.chr",
      "closedLap_YesTrigger_YesSpeed.chr",
      "openLap_LongFile_NoTrigger_NoSpeed.chr",
      "openLap_NoTrigger_NoSpeed.chr",
