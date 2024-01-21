@@ -1,7 +1,7 @@
 {
   "runs": [
      "ClosedLap_Trigger.chr",
-     "OpenLap_Trigger+SpeedSensor.chr",
+     "OpenLap_Trigger_SpeedSensor.chr",
      "Motocross_Covo.chr",
      "Roadbike_Coste.chr"
   ]
