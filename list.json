@@ -1,15 +1,8 @@
 {
   "runs": [
-     "closedLap_NoTrigger_NoSpeed.chr",
-     "closedLap_NoTrigger_YesSpeed.chr",
-     "closedLap_YesTrigger_NoSpeed.chr",
-     "closedLap_YesTrigger_YesSpeed.chr",
-     "openLap_LongFile_NoTrigger_NoSpeed.chr",
-     "openLap_NoTrigger_NoSpeed.chr",
-     "openLap_NoTrigger_YesSpeed.chr",
-     "openLap_YesTrigger_NoSpeed.chr",
-     "openLap_YesTrigger_YesSpeed.chr",
-     "2023-09-27_Run01.chr",
-     "2024-01-12_Run15.chr"
+     "ClosedLap_Trigger.chr",
+     "OpenLap_Trigger+Speed sensor.chr",
+     "Motocross_Covo.chr",
+     "Roadbike_Coste.chr"
   ]
 }
