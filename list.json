@@ -1,9 +1,10 @@
 {
   "runs": [
-     "ClosedLap_Trigger.chr",
-     "OpenLap_Trigger_SpeedSensor.chr",
-     "Motocross_Covo.chr",
-     "Roadbike_Coste.chr",
-     "Kart_SouthGardaKarting.chr"
+     "ClosedLap.chr",
+     "ClosedLap_multi_trigger.chr",
+     "ClosedLap_single_trigger.chr",
+     "roadBike.chr",
+     "Kart_SouthGardaKarting.chr",
+     "OpenLap_Trigger_SpeedSensor"
   ]
 }
